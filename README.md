@@ -1,2 +1,2 @@
-# -Designing_of_intelligent_self-help_systems
+# Designing_of_intelligent_self-help_systems
 Проектування інтелектуальних СППР
